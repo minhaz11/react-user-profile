@@ -1,0 +1,29 @@
+.header{
+ 
+    text-align: center;
+}
+.nav{
+    
+    margin-top: 20px;
+    line-height: 40px;
+    font-size: 20px;
+    padding: 10px;
+    border-bottom: 1px solid lightsteelblue;
+}
+
+.nav img{
+    height: 25px;
+    float: left;
+}
+
+.nav a{
+    border: 0.5px solid lightskyblue;
+    border-radius: 3px;
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    padding: 5px;
+
+ 
+    
+}
